@@ -5,4 +5,4 @@
 
 [真正的主页：](https://www.luogu.com.cn/user/765382)
 
-![好玩的图](![](https://cdn.luogu.com.cn/upload/image_hosting/c4ycg2u3.png))
+![](https://cdn.luogu.com.cn/upload/image_hosting/c4ycg2u3.png)
